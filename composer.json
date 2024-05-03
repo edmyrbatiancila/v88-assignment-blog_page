@@ -1,0 +1,12 @@
+{
+  "name": "The-Blog-Page",
+  "description": "Blog Post Website",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Edmyr Batiancila",
+      "email": "batiancilaedmyr@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
